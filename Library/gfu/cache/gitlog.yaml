@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: d055eb559471dbd4cabd3860735c5351, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  log:
+  - CommitID: 341d7bbed4cc659862500560fbfbf745bfede589
+    MergeA: 
+    MergeB: 
+    AuthorName: tungteen
+    AuthorEmail: tungk60uet@gmail.com
+    CommitEmail: tungk60uet@gmail.com
+    CommitName: tungteen
+    Summary: Initial commit
+    Description: Initial commit
+    TimeString: 8/25/2017 9:38:31 AM +07:00
+    CommitTimeString: 8/25/2017 9:38:31 AM +07:00
+    Changes:
+    - Path: .gitattributes
+      FullPath: C:\Users\DELL\Documents\Colly_Word\.gitattributes
+      ProjectPath: .gitattributes
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: .gitignore
+      FullPath: C:\Users\DELL\Documents\Colly_Word\.gitignore
+      ProjectPath: .gitignore
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\.gitignore
+      FullPath: C:\Users\DELL\Documents\Colly_Word\Assets\.gitignore
+      ProjectPath: Assets\.gitignore
+      OriginalPath: 
+      Status: 4
+      Staged: 0

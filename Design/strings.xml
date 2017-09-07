@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Colly Word</string>
+    <string name="string_rank_board">TOP RANK</string>
+    <string name="string_guide_game">Guide Game</string>
+    <string name="string_long_out_success">Logout Success</string>
+    <string name="string_log_out_failed">Logout Failed</string>
+    <string name="string_login_success">Login Success</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="msg_connection_error">Can not connect to Server</string>
+    <string name="msg_network_error">No Connection</string>
+    <string name="msg_update_info_success">Update game information is success</string>
+    <string name="msg_update_info_failed">Update game information is failed</string>
+    <string name="msg_data_not_found">No data</string>
+    <string name="string_yes">Yes</string>
+    <string name="facebook_app_id" translatable="false">436009283236311</string>
+
+    <string name="red">red</string>
+    <string name="yellow">yellow</string>
+    <string name="black">black</string>
+    <string name="orange">orange</string>
+    <string name="pink">pink</string>
+    <string name="white">white</string>
+    <string name="violet">violet</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="brown">brown</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer" translatable="false">ca-app-pub-1589360682424634/2707806900</string>
+    <string name="interstitial_full_screen" translatable="false">ca-app-pub-1589360682424634/2707806900</string>
+
+</resources>

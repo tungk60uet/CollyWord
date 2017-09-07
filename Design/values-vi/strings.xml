@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colly Word</string>
+    <string name="string_rank_board">BẢNG XẾP HẠNG</string>
+    <string name="string_guide_game">HƯỚNG DẪN CHƠI</string>
+    <string name="string_long_out_success">Đăng xuất thành công</string>
+    <string name="string_log_out_failed">Đăng xuất thất bại</string>
+    <string name="string_login_success">Đăng nhập thành công</string>
+    <string name="login_failed">Đăng nhập thất bại</string>
+    <string name="msg_data_not_found">Không có dữ liệu</string>
+    <string name="msg_update_info_success">Update game information is success</string>
+    <string name="msg_update_info_failed">Update game information is failed</string>
+    <string name="msg_connection_error">Không thể kết nối đến Server</string>
+    <string name="msg_network_error">Không có kết nối</string>
+    <string name="string_yes">Đồng ý</string>
+
+    <string name="red">đỏ</string>
+    <string name="yellow">vàng</string>
+    <string name="black">đen</string>
+    <string name="orange">da cam</string>
+    <string name="pink">hồng</string>
+    <string name="white">trắng</string>
+    <string name="violet">tím</string>
+    <string name="green">xanh lá cây</string>
+    <string name="blue">xanh da trời</string>
+    <string name="brown">nâu</string>
+</resources>
